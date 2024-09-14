@@ -1,2 +1,3 @@
 # Auckland-COMPSCI235-Solution
-the solution to compsci235
+
+## 微信：scs_ryan
